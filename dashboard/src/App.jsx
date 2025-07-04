@@ -1,9 +1,11 @@
+import TaskDashboard from "./Components/TaskDashboard"
+
 function App() {
 
 
   return (
     <>
-      
+      <TaskDashboard />
     </>
   )
 }
